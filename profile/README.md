@@ -4,7 +4,7 @@
 
 Technology rebuilt social life around a single incentive: time on screen. The longer people stay, the more the business earns. Every design decision follows from that, and people feel it even when they can't name it.
 
-We built a social app that profits from lives well lived. The platform earns when people meet. Businesses earn by building places worth coming back to. Every meeting strengthens the next.
+We built a social app that profits from lives well lived. No conflict of interest. The platform earns when people meet. Businesses earn by building places worth coming back to.
 
 A digital thread to an analog life.
 
@@ -18,4 +18,4 @@ dev@qrious.cy
 
 ---
 
-**Early access** — Leave your email at [qrious.social](https://qrious.social) to get in first when we launch, with perks.
+**Early access** — Leave your email at <a href="https://qrious.social" target="_blank">qrious.social</a> to get in first when we launch, with perks.
