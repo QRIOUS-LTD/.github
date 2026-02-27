@@ -18,4 +18,4 @@ dev@qrious.cy
 
 ---
 
-**Early access** — Leave your email at <a href="https://qrious.social" target="_blank">qrious.social</a> to get in first when we launch, with perks.
+**Early access** — Leave your email at <a href="https://qrious.social" target="_blank" rel="noopener noreferrer">https://qrious.social</a> to get in first when we launch, with perks.
